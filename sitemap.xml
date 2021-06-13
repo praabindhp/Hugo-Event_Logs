@@ -2,14 +2,14 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	
 	<sitemap>
-	   	<loc>https://example.com/en/sitemap.xml</loc>
+	   	<loc>https://praabindhp.github.io/Hugo-Event_Logs/en/sitemap.xml</loc>
 		
 	   	<lastmod>2021-01-24T00:00:00+00:00</lastmod>
 		
 	</sitemap>
 	
 	<sitemap>
-	   	<loc>https://example.com/fr/sitemap.xml</loc>
+	   	<loc>https://praabindhp.github.io/Hugo-Event_Logs/fr/sitemap.xml</loc>
 		
 	</sitemap>
 	

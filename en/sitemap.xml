@@ -3,69 +3,69 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/timeline/my-first-post/</loc>
+    <loc>https://praabindhp.github.io/Hugo-Event_Logs/timeline/my-first-post/</loc>
     <lastmod>2021-01-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/</loc>
+    <loc>https://praabindhp.github.io/Hugo-Event_Logs/</loc>
     <lastmod>2021-01-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/"
+                href="https://praabindhp.github.io/Hugo-Event_Logs/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/"
+                href="https://praabindhp.github.io/Hugo-Event_Logs/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/timeline/</loc>
+    <loc>https://praabindhp.github.io/Hugo-Event_Logs/timeline/</loc>
     <lastmod>2021-01-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://praabindhp.github.io/Hugo-Event_Logs/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/categories/"
+                href="https://praabindhp.github.io/Hugo-Event_Logs/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/categories/"
+                href="https://praabindhp.github.io/Hugo-Event_Logs/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/series/</loc>
+    <loc>https://praabindhp.github.io/Hugo-Event_Logs/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/series/"
+                href="https://praabindhp.github.io/Hugo-Event_Logs/fr/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/series/"
+                href="https://praabindhp.github.io/Hugo-Event_Logs/series/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://praabindhp.github.io/Hugo-Event_Logs/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/tags/"
+                href="https://praabindhp.github.io/Hugo-Event_Logs/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/"
+                href="https://praabindhp.github.io/Hugo-Event_Logs/tags/"
                 />
   </url>
   

@@ -3,58 +3,58 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/fr/categories/</loc>
+    <loc>https://praabindhp.github.io/Hugo-Event_Logs/fr/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/categories/"
+                href="https://praabindhp.github.io/Hugo-Event_Logs/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/categories/"
+                href="https://praabindhp.github.io/Hugo-Event_Logs/fr/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/fr/</loc>
+    <loc>https://praabindhp.github.io/Hugo-Event_Logs/fr/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/"
+                href="https://praabindhp.github.io/Hugo-Event_Logs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/"
+                href="https://praabindhp.github.io/Hugo-Event_Logs/fr/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/fr/series/</loc>
+    <loc>https://praabindhp.github.io/Hugo-Event_Logs/fr/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/series/"
+                href="https://praabindhp.github.io/Hugo-Event_Logs/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/series/"
+                href="https://praabindhp.github.io/Hugo-Event_Logs/fr/series/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/fr/tags/</loc>
+    <loc>https://praabindhp.github.io/Hugo-Event_Logs/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/"
+                href="https://praabindhp.github.io/Hugo-Event_Logs/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/tags/"
+                href="https://praabindhp.github.io/Hugo-Event_Logs/fr/tags/"
                 />
   </url>
   
