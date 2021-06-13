@@ -1,0 +1,54 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Timelines on Praabindh&#39;s Timeline</title>
+        <link>https://example.com/timeline/</link>
+        <description>Recent content in Timelines on Praabindh&#39;s Timeline</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Sun, 24 Jan 2021 00:00:00 +0000</lastBuildDate>
+        <atom:link href="https://example.com/timeline/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>My First Commit</title>
+            <link>https://example.com/timeline/my-first-post/</link>
+            <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
+            
+            <guid>https://example.com/timeline/my-first-post/</guid>
+            <description>My First Commit Howdy 👋, I&amp;rsquo;m Praabindh Pradeep ! A Passionate Programmer/Developer From India
+  🔭 I’m currently working on Project H.A.L.E. &amp;amp; Zeta Alphox Pro [ Z A P ]
+  🌱 I’m currently learning Machine Learning Libraries, Fast API, React Native
+  👯 I’m looking to collaborate with Creator, Developer/Programmer
+  🤝 I’m looking for help with Deep Learning With Computer Vision
+  💬 Ask me about Artificial Intelligence , Python3 Development, C Programming</description>
+            <content type="html"><![CDATA[<h2 id="my-first-commit">My First Commit</h2>
+<p>Howdy 👋, I&rsquo;m Praabindh Pradeep !
+A Passionate Programmer/Developer From India</p>
+<ul>
+<li>
+<p>🔭 I’m currently working on <a href="https://drive.google.com/file/d/1vQzjphMSagvZGjyl_8PSIQ6TLiIkoGhZ/view?usp=sharing">Project H.A.L.E. &amp; Zeta Alphox Pro [ Z A P ]</a></p>
+</li>
+<li>
+<p>🌱 I’m currently learning <strong>Machine Learning Libraries, Fast API, React Native</strong></p>
+</li>
+<li>
+<p>👯 I’m looking to collaborate with <strong>Creator, Developer/Programmer</strong></p>
+</li>
+<li>
+<p>🤝 I’m looking for help with <a href="https://drive.google.com/file/d/1vQzjphMSagvZGjyl_8PSIQ6TLiIkoGhZ/view?usp=sharing">Deep Learning With Computer Vision</a></p>
+</li>
+<li>
+<p>💬 Ask me about <strong>Artificial Intelligence , Python3 Development, C Programming</strong></p>
+</li>
+<li>
+<p>📫 How to reach me <strong><a href="mailto:praabindhp@gmail.com">praabindhp@gmail.com</a></strong></p>
+</li>
+<li>
+<p>⚡ Fact About Me : <strong>Actor 🎭 Dancer 🕺 Swimmer 🏊🏻‍♂️ Sportsman 🚴 Film Maker 🎬 High On Visual Creativity 🎨✒️</strong></p>
+</li>
+</ul>
+<p><a href="https://github.com/praabindhp/praabindhp.git">LINK</a></p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>

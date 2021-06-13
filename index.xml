@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Praabindh&#39;s Timeline</title>
+    <link>https://example.com/</link>
+    <description>Recent content on Praabindh&#39;s Timeline</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Jan 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Commit</title>
+      <link>https://example.com/timeline/my-first-post/</link>
+      <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/timeline/my-first-post/</guid>
+      <description>My First Commit Howdy 👋, I&amp;rsquo;m Praabindh Pradeep ! A Passionate Programmer/Developer From India
+  🔭 I’m currently working on Project H.A.L.E. &amp;amp; Zeta Alphox Pro [ Z A P ]
+  🌱 I’m currently learning Machine Learning Libraries, Fast API, React Native
+  👯 I’m looking to collaborate with Creator, Developer/Programmer
+  🤝 I’m looking for help with Deep Learning With Computer Vision
+  💬 Ask me about Artificial Intelligence , Python3 Development, C Programming</description>
+    </item>
+    
+  </channel>
+</rss>
